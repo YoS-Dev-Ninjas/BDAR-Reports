@@ -1,0 +1,14 @@
+{
+  "name": "bdar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "if-env TYPE=server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-dotenv": "^0.1.3"
+  }
+}
