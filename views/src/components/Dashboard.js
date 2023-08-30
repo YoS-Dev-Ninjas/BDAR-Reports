@@ -251,13 +251,13 @@ return (
                 },
                 series: [{
                     name: 'Notifications',
-                    data: [46, 0, 45, 0]
+                    data: [9, 0, 5, 0]
                 }, 
                   {name: 'Registrations',
-                    data: [23, 0, 34, 0]
+                    data: [2, 0, 3, 0]
                   }, {
                     name: 'Certificates',
-                    data: [0, 23, 78, 0]
+                    data: [0, 2, 6, 0]
                 }]
             
             
